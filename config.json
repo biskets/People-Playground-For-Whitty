@@ -10,7 +10,7 @@
   "GridSnap": 0.25,
   "AngleSnap": 15,
   "ShowModLoadingFreeze": true,
-  "RejectShadyCode": true,
+  "RejectShadyCode": false,
   "MaxModCompilationTime": 62,
   "GorelessMode": false,
   "ProceduralFragments": true,
@@ -46,13 +46,13 @@
   "SMAA": false,
   "TonemappingMode": "Modern",
   "Brightness": 155.0,
-  "RenderScale": 0.5,
+  "RenderScale": 1,
   "FramerateLimit": 1000,
   "SimplifiedBackground": false,
   "WindowMode": "Borderless",
   "Resolution": {
-    "x": 960,
-    "y": 540
+    "x": 1920,
+    "y": 1080
   },
   "ShowTutorial": false,
   "ToyboxSizeOffset": 483.6
