@@ -1,0 +1,466 @@
+{
+  "pan": {
+    "Name": "Pan",
+    "Key": "Mouse2",
+    "SecondaryKey": "None",
+    "InvisibleInMenu": false,
+    "Category": "Camera",
+    "Universe": "All"
+  },
+  "zoomIn": {
+    "Name": "Zoom in",
+    "Key": "Plus",
+    "SecondaryKey": "None",
+    "InvisibleInMenu": true,
+    "Category": "Camera",
+    "Universe": "All"
+  },
+  "zoomOut": {
+    "Name": "Zoom out",
+    "Key": "Minus",
+    "SecondaryKey": "None",
+    "InvisibleInMenu": true,
+    "Category": "Camera",
+    "Universe": "All"
+  },
+  "drag": {
+    "Name": "Drag object",
+    "Key": "Mouse0",
+    "SecondaryKey": "None",
+    "InvisibleInMenu": false,
+    "Category": "General",
+    "Universe": "All"
+  },
+  "delete": {
+    "Name": "Delete object",
+    "Key": "Backspace",
+    "SecondaryKey": "None",
+    "InvisibleInMenu": false,
+    "Category": "General",
+    "Universe": "All"
+  },
+  "activateDirect": {
+    "Name": "Activate object under cursor / currently holding",
+    "Key": "F",
+    "SecondaryKey": "None",
+    "InvisibleInMenu": false,
+    "Category": "General",
+    "Universe": "Game"
+  },
+  "slowmo": {
+    "Name": "Toggle slow motion",
+    "Key": "G",
+    "SecondaryKey": "None",
+    "InvisibleInMenu": false,
+    "Category": "General",
+    "Universe": "Game"
+  },
+  "toggleLimbStatus": {
+    "Name": "Toggle detail view",
+    "Key": "BackQuote",
+    "SecondaryKey": "None",
+    "InvisibleInMenu": false,
+    "Category": "General",
+    "Universe": "Game"
+  },
+  "time": {
+    "Name": "Toggle time",
+    "Key": "Space",
+    "SecondaryKey": "None",
+    "InvisibleInMenu": false,
+    "Category": "General",
+    "Universe": "Game"
+  },
+  "pause": {
+    "Name": "Pause menu / back",
+    "Key": "Escape",
+    "SecondaryKey": "None",
+    "InvisibleInMenu": false,
+    "Category": "UserInterface",
+    "Universe": "All"
+  },
+  "toybox": {
+    "Name": "Toggle sidepanels",
+    "Key": "Tab",
+    "SecondaryKey": "None",
+    "InvisibleInMenu": false,
+    "Category": "UserInterface",
+    "Universe": "All"
+  },
+  "toggleUi": {
+    "Name": "Toggle user interface",
+    "Key": "Caret",
+    "SecondaryKey": "None",
+    "InvisibleInMenu": false,
+    "Category": "UserInterface",
+    "Universe": "All"
+  },
+  "toolPowerToggle": {
+    "Name": "Toggle between tools and powers",
+    "Key": "LeftControl",
+    "SecondaryKey": "None",
+    "InvisibleInMenu": false,
+    "Category": "UserInterface",
+    "Universe": "Game"
+  },
+  "tool1": {
+    "Name": "Switch to first tool",
+    "Key": "Alpha1",
+    "SecondaryKey": "None",
+    "InvisibleInMenu": false,
+    "Category": "General",
+    "Universe": "Game"
+  },
+  "tool2": {
+    "Name": "Switch to second tool",
+    "Key": "Alpha2",
+    "SecondaryKey": "None",
+    "InvisibleInMenu": false,
+    "Category": "General",
+    "Universe": "Game"
+  },
+  "tool3": {
+    "Name": "Switch to third tool",
+    "Key": "Alpha3",
+    "SecondaryKey": "None",
+    "InvisibleInMenu": false,
+    "Category": "General",
+    "Universe": "Game"
+  },
+  "tool4": {
+    "Name": "Switch to 4th tool",
+    "Key": "Alpha4",
+    "SecondaryKey": "None",
+    "InvisibleInMenu": false,
+    "Category": "General",
+    "Universe": "Game"
+  },
+  "tool5": {
+    "Name": "Switch to 5th tool",
+    "Key": "Alpha5",
+    "SecondaryKey": "None",
+    "InvisibleInMenu": false,
+    "Category": "General",
+    "Universe": "Game"
+  },
+  "tool6": {
+    "Name": "Switch to 6th tool",
+    "Key": "Alpha6",
+    "SecondaryKey": "None",
+    "InvisibleInMenu": false,
+    "Category": "General",
+    "Universe": "Game"
+  },
+  "tool7": {
+    "Name": "Switch to 7th tool",
+    "Key": "Alpha7",
+    "SecondaryKey": "None",
+    "InvisibleInMenu": false,
+    "Category": "General",
+    "Universe": "Game"
+  },
+  "tool8": {
+    "Name": "Switch to 8th tool",
+    "Key": "Alpha8",
+    "SecondaryKey": "None",
+    "InvisibleInMenu": false,
+    "Category": "General",
+    "Universe": "Game"
+  },
+  "tool9": {
+    "Name": "Switch to 9th tool",
+    "Key": "Alpha9",
+    "SecondaryKey": "None",
+    "InvisibleInMenu": false,
+    "Category": "General",
+    "Universe": "Game"
+  },
+  "spawnLeft": {
+    "Name": "Spawn left facing",
+    "Key": "Q",
+    "SecondaryKey": "None",
+    "InvisibleInMenu": false,
+    "Category": "General",
+    "Universe": "Game"
+  },
+  "spawnRight": {
+    "Name": "Spawn right facing",
+    "Key": "E",
+    "SecondaryKey": "None",
+    "InvisibleInMenu": false,
+    "Category": "General",
+    "Universe": "Game"
+  },
+  "left": {
+    "Name": "Rotate left",
+    "Key": "R",
+    "SecondaryKey": "None",
+    "InvisibleInMenu": false,
+    "Category": "General",
+    "Universe": "All"
+  },
+  "right": {
+    "Name": "Rotate right",
+    "Key": "T",
+    "SecondaryKey": "None",
+    "InvisibleInMenu": false,
+    "Category": "General",
+    "Universe": "All"
+  },
+  "fast": {
+    "Name": "Speed up rotation / uniform resizing / multiselect",
+    "Key": "LeftShift",
+    "SecondaryKey": "None",
+    "InvisibleInMenu": false,
+    "Category": "General",
+    "Universe": "All"
+  },
+  "undo": {
+    "Name": "Undo",
+    "Key": "Z",
+    "SecondaryKey": "None",
+    "InvisibleInMenu": false,
+    "Category": "General",
+    "Universe": "All"
+  },
+  "snap": {
+    "Name": "Snap",
+    "Key": "LeftAlt",
+    "SecondaryKey": "None",
+    "InvisibleInMenu": false,
+    "Category": "General",
+    "Universe": "All"
+  },
+  "snapToCenter": {
+    "Name": "Snap to center of mass",
+    "Key": "M",
+    "SecondaryKey": "None",
+    "InvisibleInMenu": false,
+    "Category": "General",
+    "Universe": "Game"
+  },
+  "copy": {
+    "Name": "Copy",
+    "Key": "C",
+    "SecondaryKey": "None",
+    "InvisibleInMenu": false,
+    "Category": "General",
+    "Universe": "All"
+  },
+  "paste": {
+    "Name": "Paste",
+    "Key": "V",
+    "SecondaryKey": "None",
+    "InvisibleInMenu": false,
+    "Category": "General",
+    "Universe": "All"
+  },
+  "context": {
+    "Name": "Context menu",
+    "Key": "Mouse1",
+    "SecondaryKey": "None",
+    "InvisibleInMenu": false,
+    "Category": "General",
+    "Universe": "All"
+  },
+  "panRight": {
+    "Name": "Move camera right",
+    "Key": "D",
+    "SecondaryKey": "None",
+    "InvisibleInMenu": false,
+    "Category": "Camera",
+    "Universe": "All"
+  },
+  "panLeft": {
+    "Name": "Move camera left",
+    "Key": "A",
+    "SecondaryKey": "None",
+    "InvisibleInMenu": false,
+    "Category": "Camera",
+    "Universe": "All"
+  },
+  "panUp": {
+    "Name": "Move camera up",
+    "Key": "W",
+    "SecondaryKey": "None",
+    "InvisibleInMenu": false,
+    "Category": "Camera",
+    "Universe": "All"
+  },
+  "panDown": {
+    "Name": "Move camera down",
+    "Key": "S",
+    "SecondaryKey": "None",
+    "InvisibleInMenu": false,
+    "Category": "Camera",
+    "Universe": "All"
+  },
+  "activateIndirect": {
+    "Name": "Activate object under cursor",
+    "Key": "None",
+    "SecondaryKey": "None",
+    "InvisibleInMenu": true,
+    "Category": "General",
+    "Universe": "Game"
+  },
+  "selectMultiple": {
+    "Name": "Select multiple",
+    "Key": "LeftControl",
+    "SecondaryKey": "None",
+    "InvisibleInMenu": false,
+    "Category": "MapEditor",
+    "Universe": "MapEditor"
+  },
+  "localSpaceTransform": {
+    "Name": "Local space transformation",
+    "Key": "G",
+    "SecondaryKey": "None",
+    "InvisibleInMenu": false,
+    "Category": "MapEditor",
+    "Universe": "MapEditor"
+  },
+  "igniteSelection": {
+    "Name": "Ignite selected objects",
+    "Key": "I",
+    "SecondaryKey": "None",
+    "InvisibleInMenu": false,
+    "Category": "General",
+    "Universe": "Game"
+  },
+  "freezeSelection": {
+    "Name": "Freeze selected objects",
+    "Key": "O",
+    "SecondaryKey": "None",
+    "InvisibleInMenu": false,
+    "Category": "General",
+    "Universe": "Game"
+  },
+  "resizeSelection": {
+    "Name": "Resize selected objects",
+    "Key": "Y",
+    "SecondaryKey": "None",
+    "InvisibleInMenu": false,
+    "Category": "General",
+    "Universe": "Game"
+  },
+  "arrangeSelection": {
+    "Name": "Edit layers of selected objects",
+    "Key": "None",
+    "SecondaryKey": "None",
+    "InvisibleInMenu": false,
+    "Category": "General",
+    "Universe": "Game"
+  },
+  "toggleHoveringHighlights": {
+    "Name": "Toggle hovering highlights",
+    "Key": "None",
+    "SecondaryKey": "None",
+    "InvisibleInMenu": false,
+    "Category": "UserInterface",
+    "Universe": "Game"
+  },
+  "toggleThermalVision": {
+    "Name": "Toggle thermal vision",
+    "Key": "N",
+    "SecondaryKey": "None",
+    "InvisibleInMenu": false,
+    "Category": "General",
+    "Universe": "Game"
+  },
+  "eyedrop": {
+    "Name": "Choose objects under cursor",
+    "Key": "None",
+    "SecondaryKey": "None",
+    "InvisibleInMenu": false,
+    "Category": "General",
+    "Universe": "All"
+  },
+  "arrangeDown": {
+    "Name": "Move layer down",
+    "Key": "None",
+    "SecondaryKey": "None",
+    "InvisibleInMenu": false,
+    "Category": "General",
+    "Universe": "All"
+  },
+  "arrangeUp": {
+    "Name": "Move layer up",
+    "Key": "None",
+    "SecondaryKey": "None",
+    "InvisibleInMenu": false,
+    "Category": "General",
+    "Universe": "All"
+  },
+  "arrangeFront": {
+    "Name": "Bring to front",
+    "Key": "None",
+    "SecondaryKey": "None",
+    "InvisibleInMenu": false,
+    "Category": "General",
+    "Universe": "All"
+  },
+  "arrangeBack": {
+    "Name": "Send to back",
+    "Key": "None",
+    "SecondaryKey": "None",
+    "InvisibleInMenu": false,
+    "Category": "General",
+    "Universe": "All"
+  },
+  "incrementGrid": {
+    "Name": "Increment grid size",
+    "Key": "None",
+    "SecondaryKey": "None",
+    "InvisibleInMenu": false,
+    "Category": "General",
+    "Universe": "All"
+  },
+  "decrementGrid": {
+    "Name": "Decrement grid size",
+    "Key": "None",
+    "SecondaryKey": "None",
+    "InvisibleInMenu": false,
+    "Category": "General",
+    "Universe": "All"
+  },
+  "incrementAngleSnap": {
+    "Name": "Increment angle snap",
+    "Key": "None",
+    "SecondaryKey": "None",
+    "InvisibleInMenu": false,
+    "Category": "General",
+    "Universe": "All"
+  },
+  "decrementAngleSnap": {
+    "Name": "Decrement angle snap",
+    "Key": "None",
+    "SecondaryKey": "None",
+    "InvisibleInMenu": false,
+    "Category": "General",
+    "Universe": "All"
+  },
+  "CM-ResetCamera": {
+    "Name": "[CM] Reset Camera",
+    "Key": "H",
+    "SecondaryKey": "None",
+    "InvisibleInMenu": false,
+    "Category": "Modded",
+    "Universe": "Game"
+  },
+  "CM-SmoothCamera": {
+    "Name": "[CM] Smooth Camera",
+    "Key": "Backslash",
+    "SecondaryKey": "None",
+    "InvisibleInMenu": false,
+    "Category": "Modded",
+    "Universe": "Game"
+  },
+  "CM-CamSmoothConfig": {
+    "Name": "[CM] Smooth Camera Configuration",
+    "Key": "RightBracket",
+    "SecondaryKey": "None",
+    "InvisibleInMenu": false,
+    "Category": "Modded",
+    "Universe": "Game"
+  }
+}
